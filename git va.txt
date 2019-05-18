@@ -1,3 +1,6 @@
+#desktop assistant by sandeep
+
+
 import pyttsx3 
 import speech_recognition as sr 
 import datetime
